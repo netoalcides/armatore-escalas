@@ -1,0 +1,9 @@
+openpyxl
+xlrd==1.2.0
+pandas
+numpy
+sklearn
+seaborn
+matplotlib
+statistics
+scipy
