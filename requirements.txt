@@ -8,3 +8,4 @@ matplotlib
 statistics
 scipy
 pingouin
+openai
