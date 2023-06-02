@@ -2,10 +2,12 @@ openpyxl
 xlrd==1.2.0
 pandas
 numpy
-sklearn
+#sklearn
+scikit-learn
 seaborn
 matplotlib
 statistics
 scipy
 pingouin
 openai
+#python-dotenv
