@@ -2,4 +2,6 @@
 *.xlsx
 *.pkl
 .ipynb_checkpoints/
+__pycache__/
 .env/
+conf.py
